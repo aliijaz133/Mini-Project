@@ -1,0 +1,153 @@
+#ecommerce {text-align:center;color:white;font-size:100px;font-family:Swis721 Blk BT;margin-left:-200px;margin-top:20px;}
+.Logo {width:20%;height:240px;margin-top:-270px;margin-left:880px;user-select:none;cursor:nodrop;}
+/*CSS Designing By: Ali Ijaz Registration Number: 1880171*/::selection {color: white;background: red;}
+.btn {
+    background: linear-gradient(to bottom right, #33cc80 17%, #33cccc 97%);
+}
+.btn:hover{
+    background: linear-gradient(to top left, #33cc80 17%, #33cccc 97%);
+}
+.btn {
+		color:white;
+		height:50px;
+		width:15%;
+		font-family:Times New Roman;
+		font-size:30px;
+		cursor:pointer;
+		border-radius:20px;
+	}
+	#bottom {
+		margin-bottom
+	}
+.btn:active {
+		font-size:25px;
+	}
+	div {
+	margin-left:150px;
+	}
+body {
+		background-image:url('https://i.pinimg.com/originals/99/1f/9e/991f9e7a79a5fc945310b8c54f0fb9d2.gif');
+		background-position:fixed;
+		background-size:cover;
+		background-repeat:no-repeat;
+}
+.footer {
+   position: fixed;
+   bottom: 0;
+   left:0;
+   width:100%;
+   font-size:15px;
+   margin-left:2px;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+nav {
+		margin-top:20px;
+		margin-left:900px;
+}
+input[text] {
+		font-size:25px;
+		background-color:LightGreen;
+		color:black;
+		font-family:Times New Roman;
+		padding:7px;
+}
+.search {
+	background:linear-gradient(to top left, yellow 17%, orange 97%);
+	padding:7px;
+	height:50px;
+}
+placeholder {
+	color:white;
+}
+.pakistan:hover {
+	background-image:url('https://media0.giphy.com/media/l0MYxqKEmJoL150TC/giphy.gif');
+	}
+.germany:hover {
+	background-image:url('https://media0.giphy.com/media/l0MYxqKEmJoL150TC/giphy.gif');
+	}
+.uae:hover {
+	background-image:url('https://media0.giphy.com/media/l0MYxqKEmJoL150TC/giphy.gif');
+	}
+.al {
+  opacity: 0.5;
+  cursor:pointer;
+}
+
+.al:hover {
+  opacity: 1.0;
+}
+.sa {
+  opacity: 0.5;
+  cursor:pointer;
+}
+
+.sa:hover {
+  opacity: 1.0;
+}
+.laptop1 {
+	height:200px;
+	width:100%;
+	cursor:pointer;
+	user-select:none;
+}
+.ali {
+	background-color:#008000;
+	color:white;
+	font-family:Times New Roman;
+	}
+.mobile1 {
+	height:200px;
+	width:100%;
+	cursor:pointer;
+	user-select:none;
+}
+#laptop1 {margin-left:500px;
+		margin-top:-285px;}
+		 li{
+cursor: pointer;
+}
+#laptop2 {
+		margin-left:850px;
+		margin-top:-285px;
+}
+#laptop4 {
+	margin-left:500px;
+	margin-top: -285px;
+}
+#laptop6 {
+	margin-left:850px;
+	margin-top:-285px;
+}
+.add {
+	color:white;
+	background-color:black;
+	font-family:Times New Roman;
+	font-size:30px;
+	margin-left:550px;
+	margin-top:20px;
+}
+.edit {color:white;
+	background-color:green;
+	font-family:Times New Roman;
+	font-size:30px;
+}
+.delete {
+color:white;
+	background-color:red;
+	font-family:Times New Roman;
+	font-size:30px;
+}
+.file {
+	width:45%;
+	height:50px;
+	font-family:Times New Roman;
+	font-family: 'Alvi lahori Nastaleeq ','Jameel Noori Nastaleeq','Urdu Naskh Asiatype',Arial,Tahoma;
+	font-size:25px;
+	margin-top:50px;
+	margin-left:370px;
+	border:5px solid navy;
+	border-top-right-radius:20px;
+	border-top-left-radius:20px;
+}
